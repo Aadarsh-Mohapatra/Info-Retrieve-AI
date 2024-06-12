@@ -162,20 +162,27 @@ cython_debug/
 #.idea/
 
 
-# Ignore this files (Please remove this gitignore when you are executing fresh)
-config.py/
-requirements.txt/
+# Ignore directories
+venv/
+database/
 RAGAs/
-Gemini_Performance_Metrics_Unique.csv/
-GPT-4_Performance_Metrics_Unique.csv/
-syn_gpt_base_50qstns.csv/
 
-Gemma_script.ipynb/
-Llama3-8B_script.ipynb/
+# Ignore specific files
+config.py
+requirements.txt
+Gemini_Performance_Metrics_Unique.csv
+GPT-4_Performance_Metrics_Unique.csv
+syn_gpt_base_50qstns.csv
 
-UI_Model.ipynb/
-UI_Performance_Metrics.ipynb/
-ngrok_model_ui_app.py/
-ngrok_pmui_app.py/
+# Ignore Jupyter notebooks
+Gemma_script.ipynb
+Llama3-8B_script.ipynb
+UI_Model.ipynb
+UI_Performance_Metrics.ipynb
 
-NVIDIA__Annual_Report.pdf/
+# Ignore Python scripts related to ngrok
+ngrok_model_ui_app.py
+ngrok_pmui_app.py
+
+# Ignore specific PDF files
+NVIDIA__Annual_Report.pdf
