@@ -3,6 +3,7 @@
 ## Introduction
 
 Welcome to Info-Retrieve-AI!
+
 By integrating machine learning (ML) and natural language processing (NLP) techniques based on RAG approach, the initiative aims to revolutionize the processing and analysis of data from diverse sources, with a primary focus on any PDF documents and web-based newsletters/blogs. This approach is expected to bolster secondary research capabilities across the companys various operational departments.
 
 ## Getting Started
