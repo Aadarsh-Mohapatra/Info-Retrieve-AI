@@ -68,6 +68,8 @@ Follow these steps to get your development environment running:
    streamlit run main\app_pm.py
    ```
 
+   - **_"Please note that unless the entire model is executed as well as RAGA code files, the application for Performance Metrics UI will not display any statistics or plots"_**
+
 ## Additional Information
 
 - **Folder Structure**: Ensure your project folder is set up according to the guidelines provided in the repository structure.
