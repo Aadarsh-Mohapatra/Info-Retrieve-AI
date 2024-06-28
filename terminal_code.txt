@@ -1,7 +1,0 @@
-# Run these in cmd terminal for deployment:
-Check if the directory is correct or change it: cd "E:\ISB AMPBA\Courses\Capstone\Info-Retrieve-AI"
-Use this if using powershell and not cmd : Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-Create virtual env : python -m venv venv
-If virtual env already created, start the env : .\venv\Scripts\activate.bat
-Install libraries : pip install -r requirements.txt
-Run the streamlit app : streamlit run app.py
