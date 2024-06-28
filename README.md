@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to Info-Retrieve-AI! [Add some introduction here that describes the purpose and functionality of this project, who it's for, and what problems it solves.]
+Welcome to Info-Retrieve-AI!
+By integrating machine learning (ML) and natural language processing (NLP) techniques based on RAG approach, the initiative aims to revolutionize the processing and analysis of data from diverse sources, with a primary focus on any PDF documents and web-based newsletters/blogs. This approach is expected to bolster secondary research capabilities across the companys various operational departments.
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ Follow these steps to get your development environment running:
 
 2. **Configure Settings**
 
-   - Create your `config.py` based on the `dummy_config.py` template to store API keys and other configurations.
+   - Create your `config.py` based on the `dummy_config.py` template to store API keys and other configurations so that the IRS is up and running.
 
 3. **Setup PowerShell Execution Policy (Windows PowerShell only)**
 
