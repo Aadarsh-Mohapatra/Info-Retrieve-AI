@@ -86,13 +86,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-## Acknowledgments
+## Collaborators
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- The main collaborators behind the project are -
 
-```
+Aadarsh Mohapatra - www.github.com/Aadarsh-Mohapatra
+Aayush Oberoi - www.github.com/aayushoberoi
 
-This version enhances readability, organizes the content into clear sections, and includes additional standard sections like "Contributing" and "Acknowledgments" that you can customize or expand based on your project's needs. Adjust the placeholder text and links according to your project details and repository settings.
-```
+Using their combined knowledge of Web Scraping, Modeling, knowledge of various performance metrics and fine tuning LLM models, they have completed this entire project within a span of 3 months. Given above are their GitHub profile links that can be accessed to see and run the project and have a chatbot ready to serve your purpose.
