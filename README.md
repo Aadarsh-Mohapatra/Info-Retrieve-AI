@@ -1,4 +1,3 @@
-````markdown
 # Info-Retrieve-AI
 
 ## Introduction
@@ -9,7 +8,7 @@ Welcome to Info-Retrieve-AI! [Add some introduction here that describes the purp
 
 These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -17,16 +16,16 @@ Before you begin, ensure you have the following installed:
 - pip (Python package installer)
 - API Keys for various models like Langchain, DeepLake, OpenAI, Gemini, Hugging Face, Ngrok, Pinecone, etc
 
-### Setup Instructions
+## Setup Instructions
 
 Follow these steps to get your development environment running:
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/Aadarsh-Mohapatra/Info-Retrieve-AI.git
    cd Info-Retrieve-AI
    ```
-````
 
 2. **Configure Settings**
 
@@ -38,7 +37,7 @@ Follow these steps to get your development environment running:
    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
    ```
 
-   - **This is optional as you can directly run this in commnad prompt (cmd)**
+   - **This is optional as you can directly run this in command prompt (cmd)**
 
 4. **Create and Activate Virtual Environment**
 
@@ -48,24 +47,26 @@ Follow these steps to get your development environment running:
    ```
 
 5. **Install Dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
-### Running the Application
+6. **Running the Application**
 
-- **Launch the Main Application**
+   - **Launch the Main Application**
 
-  ```bash
-  streamlit run main\app.py
-  ```
+   ```bash
+   streamlit run main\app.py
+   ```
 
-- **Launch the Performance Metrics UI**
-  ```bash
-  streamlit run main\app_pm.py
-  ```
+   - **Launch the Performance Metrics UI**
 
-### Additional Information
+   ```bash
+   streamlit run main\app_pm.py
+   ```
+
+## Additional Information
 
 - **Folder Structure**: Ensure your project folder is set up according to the guidelines provided in the repository structure.
 - **Dependencies**: All dependencies can be found in the `requirements.txt` file. Make sure to update this file as you add or update libraries.
