@@ -54,9 +54,9 @@ Follow these steps to get your development environment running:
    pip install -r requirements.txt
    ```
 
-6. **Running the Application**
+6. **Running the IRS Application**
 
-   - **Launch the Main Application**
+   - **Launch the IRS Model Application**
 
    ```bash
    streamlit run main\app.py
