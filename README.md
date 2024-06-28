@@ -95,9 +95,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Collaborators
 
-- The main collaborators behind the project are -
+- The author and co-author :
 
-Aadarsh Mohapatra - www.github.com/Aadarsh-Mohapatra
-Aayush Oberoi - www.github.com/aayushoberoi
+  - Aadarsh Mohapatra - www.github.com/Aadarsh-Mohapatra
 
-Using their combined knowledge of Web Scraping, Modeling, knowledge of various performance metrics and fine tuning LLM models, they have completed this entire project within a span of 3 months. Given above are their GitHub profile links that can be accessed to see and run the project and have a chatbot ready to serve your purpose.
+  - Aayush Oberoi - www.github.com/aayushoberoi
+
+Using their combined expertise and knowledge in web-scraping, modeling, knowledge of various performance metrics and fine tuning LLM models, they have completed this entire project within a span of 3 months. Given above are their GitHub profile links that can be accessed to see and run the project and have a chatbot ready to serve your purpose.
