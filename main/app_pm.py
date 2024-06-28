@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore")
 # General imports
 import sys
 
-sys.path.append("E:\\Github_Repo\\Info-Retrieve-AI")
+sys.path.append("E:\\Github_Repo\\Info-Retrieve-AI") # Change directory
 from __init__ import cfg
 import pandas as pd
 import numpy as np
@@ -28,10 +28,10 @@ ngrok.set_auth_token(cfg.NGROK_API_KEY)
 # Read the Performance Metrics Datasets
 data = {
     "GPT-4": pd.read_csv(
-        r"E:\Github_Repo\Info-Retrieve-AI\ui_pm_output\ui_gpt4_performance_metrics.csv"
+        r"E:\Github_Repo\Info-Retrieve-AI\ui_pm_output\ui_gpt4_performance_metrics.csv" # Change directory
     ),
     "Gemini Pro": pd.read_csv(
-        r"E:\Github_Repo\Info-Retrieve-AI\ui_pm_output\ui_gemini_performance_metrics.csv"
+        r"E:\Github_Repo\Info-Retrieve-AI\ui_pm_output\ui_gemini_performance_metrics.csv" # Change directory
     ),
 }
 

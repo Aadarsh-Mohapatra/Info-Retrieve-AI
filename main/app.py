@@ -5,7 +5,8 @@ warnings.filterwarnings("ignore")
 
 # General imports
 import sys
-sys.path.append('E:\\Github_Repo\\Info-Retrieve-AI')
+
+sys.path.append("E:\\Github_Repo\\Info-Retrieve-AI") # Change directory
 from __init__ import cfg
 import pandas as pd
 import numpy as np
@@ -40,7 +41,7 @@ genai.configure(api_key=cfg.GOOGLE_API_KEY)
 print("Import successful")
 
 # Define the data_folder path
-data_folder = "E:\\Github_Repo\\Info-Retrieve-AI\\data_source"
+data_folder = "E:\\Github_Repo\\Info-Retrieve-AI\\data_source"  # Create a folder data_source in sub-directory to store uploaded PDF files
 
 
 def load_models(file_path=None):

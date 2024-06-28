@@ -33,7 +33,11 @@ Follow these steps to get your development environment running:
 
    - Create your `config.py` based on the `dummy_config.py` template to store API keys and other configurations so that the IRS is up and running.
 
-3. **Setup PowerShell Execution Policy (Windows PowerShell only)**
+3. **Change directory**
+
+   - Change the path into your local directory so that the repository can be up and running smoothly.
+
+4. **Setup PowerShell Execution Policy (Windows PowerShell only)**
 
    ```powershell
    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
@@ -41,20 +45,20 @@ Follow these steps to get your development environment running:
 
    - **This is optional as you can directly run this in command prompt (cmd)**
 
-4. **Create and Activate Virtual Environment**
+5. **Create and Activate Virtual Environment**
 
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
    ```
 
-5. **Install Dependencies**
+6. **Install Dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-6. **Running the IRS Application**
+7. **Running the IRS Application**
 
    - **Launch the IRS Model Application**
 
