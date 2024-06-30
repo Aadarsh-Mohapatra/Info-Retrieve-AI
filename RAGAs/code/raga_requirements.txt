@@ -1,8 +1,0 @@
-ragas
-torch  # Assuming it's necessary, check RAGA's requirements if not listed explicitly
-transformers
-numpy
-pandas
-huggingface-hub  # If using models hosted on Hugging Face or related operations
-pinecone-client==4.0.0
-bs4  # If you need to scrape web data as input for RAGA

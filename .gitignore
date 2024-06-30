@@ -15,7 +15,9 @@ logs/
 # Ignore config files
 config.py
 github_setup_README.md
+main/app_pm.py
 
 # Ignore output folders
-RAGAs/output/
+code/
+RAGAs/
 ui_pm_output/
