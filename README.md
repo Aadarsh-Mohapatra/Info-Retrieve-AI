@@ -66,13 +66,13 @@ Follow these steps to get your development environment running:
    streamlit run main\app.py
    ```
 
-   - **Launch the Performance Metrics UI**
+   <!-- - **Launch the Performance Metrics UI** -->
 
-   ```bash
+   <!-- ```bash
    streamlit run main\app_pm.py
-   ```
+   ``` -->
 
-   - **_"Please note that unless the entire model is executed as well as RAGA code files, the application for Performance Metrics UI will not display any statistics or plots"_**
+   <!-- - **_"Please note that unless the entire model is executed as well as RAGA code files, the application for Performance Metrics UI will not display any statistics or plots"_** -->
 
 ## Additional Information
 
